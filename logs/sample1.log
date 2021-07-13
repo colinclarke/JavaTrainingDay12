@@ -1,0 +1,380 @@
+2021-07-13 11:53:25 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 11:53:25 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 11:53:25 WARN  Person:103 - false
+2021-07-13 11:53:25 WARN  Person:103 - false
+2021-07-13 11:54:51 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 11:54:51 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 11:54:51 WARN  Person:103 - false
+2021-07-13 11:54:51 WARN  Person:103 - false
+2021-07-13 11:54:59 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 11:54:59 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 11:54:59 WARN  Person:103 - false
+2021-07-13 11:54:59 WARN  Person:103 - false
+2021-07-13 12:13:08 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 12:13:08 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 12:13:08 WARN  Person:103 - false
+2021-07-13 12:13:08 WARN  Person:103 - false
+2021-07-13 12:47:50 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 12:47:50 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 12:47:50 WARN  Person:103 - false
+2021-07-13 12:47:50 WARN  Person:103 - false
+2021-07-13 12:56:22 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 12:56:22 WARN  Person:102 - Values for p1, p2, p3: Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Joe, weight = 160, sex = 'M', height = 72}Person{name = Josephine, weight = 122, sex = 'F', height = 65}
+2021-07-13 12:56:22 WARN  Person:103 - false
+2021-07-13 12:56:22 WARN  Person:103 - false
+2021-07-13 14:41:23 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 14:41:23 INFO  App:129 - Result 1: 30
+2021-07-13 14:41:23 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 14:41:23 INFO  App:136 - Result 2: 70
+2021-07-13 15:12:17 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:12:17 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:12:17 INFO  App:129 - Result 1: 30
+2021-07-13 15:12:17 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:12:17 INFO  App:136 - Result 2: 70
+2021-07-13 15:13:21 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:13:21 INFO  App:41 - 1     499955
+
+2021-07-13 15:13:21 INFO  App:41 - 2     500045
+
+2021-07-13 15:13:21 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:13:21 INFO  App:129 - Result 1: 30
+2021-07-13 15:13:21 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:13:21 INFO  App:136 - Result 2: 70
+2021-07-13 15:15:02 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:15:02 INFO  App:41 - 1     500128
+2021-07-13 15:15:02 INFO  App:41 - 2     499872
+2021-07-13 15:15:02 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:15:02 INFO  App:129 - Result 1: 30
+2021-07-13 15:15:02 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:15:02 INFO  App:136 - Result 2: 70
+2021-07-13 15:23:29 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:23:29 INFO  App:41 - 1     499622
+2021-07-13 15:23:29 INFO  App:41 - 2     500378
+2021-07-13 15:23:29 TRACE App:45 - 
+========== Invoice Examples ==========
+2021-07-13 15:23:29 TRACE App:46 - 
+>> Sorted by part description
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:23:29 TRACE App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:23:29 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:23:29 INFO  App:129 - Result 1: 30
+2021-07-13 15:23:29 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:23:29 INFO  App:136 - Result 2: 70
+2021-07-13 15:24:11 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:24:11 INFO  App:41 - 1     499933
+2021-07-13 15:24:11 INFO  App:41 - 2     500067
+2021-07-13 15:24:11 TRACE App:45 - ========== Invoice Examples ==========
+2021-07-13 15:24:11 TRACE App:46 - >> Sorted by part description
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:24:11 TRACE App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:24:11 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:24:11 INFO  App:129 - Result 1: 30
+2021-07-13 15:24:11 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:24:11 INFO  App:136 - Result 2: 70
+2021-07-13 15:24:29 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:24:29 INFO  App:41 - 1     500090
+2021-07-13 15:24:29 INFO  App:41 - 2     499910
+2021-07-13 15:24:29 TRACE App:45 - ========== Invoice Examples ==========
+2021-07-13 15:24:29 TRACE App:46 - >> Sorted by part description
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:24:29 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:24:29 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:24:29 INFO  App:129 - Result 1: 30
+2021-07-13 15:24:29 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:24:29 INFO  App:136 - Result 2: 70
+2021-07-13 15:31:23 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:31:23 INFO  App:41 - 1     499871
+2021-07-13 15:31:23 INFO  App:41 - 2     500129
+2021-07-13 15:31:23 TRACE App:45 - ========== Invoice Examples ==========
+2021-07-13 15:31:23 TRACE App:46 - >> Sorted by part description
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:31:23 TRACE App:51 - >> Sorted by price per item
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:31:23 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:31:23 TRACE App:57 - >> Map invoices to part description and quantity, then sort by quantity
+2021-07-13 15:31:23 INFO  App:62 - Lawn mower           3
+2021-07-13 15:31:23 INFO  App:62 - Electric sander      7
+2021-07-13 15:31:23 INFO  App:62 - Sledge hammer        11
+2021-07-13 15:31:23 INFO  App:62 - Power saw            18
+2021-07-13 15:31:23 INFO  App:62 - Jig saw              21
+2021-07-13 15:31:23 INFO  App:62 - Wrench               34
+2021-07-13 15:31:23 INFO  App:62 - Hammer               76
+2021-07-13 15:31:23 INFO  App:62 - Screwdriver          106
+2021-07-13 15:31:23 TRACE App:64 - >> Map invoices to part description and value of invoice, then sort by value
+2021-07-13 15:31:23 INFO  App:68 - Jig saw              $231.00
+
+2021-07-13 15:31:23 INFO  App:68 - Sledge hammer        $236.50
+
+2021-07-13 15:31:23 INFO  App:68 - Lawn mower           $238.50
+
+2021-07-13 15:31:23 INFO  App:68 - Wrench               $255.00
+
+2021-07-13 15:31:23 INFO  App:68 - Electric sander      $405.86
+
+2021-07-13 15:31:23 INFO  App:68 - Screwdriver          $740.94
+
+2021-07-13 15:31:23 INFO  App:68 - Hammer               $911.24
+
+2021-07-13 15:31:23 INFO  App:68 - Power saw            $1799.82
+
+2021-07-13 15:31:23 TRACE App:70 - >> Same as above but only select values $200-$500
+2021-07-13 15:31:23 INFO  App:75 - Jig saw              $231.00
+
+2021-07-13 15:31:23 INFO  App:75 - Sledge hammer        $236.50
+
+2021-07-13 15:31:23 INFO  App:75 - Lawn mower           $238.50
+
+2021-07-13 15:31:23 INFO  App:75 - Wrench               $255.00
+
+2021-07-13 15:31:23 INFO  App:75 - Electric sander      $405.86
+
+2021-07-13 15:31:23 TRACE App:77 - >> Find an invoice where part description contains "saw"
+2021-07-13 15:31:23 INFO  App:80 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:31:23 TRACE App:83 - 
+========== End of Invoice Examples ==========
+2021-07-13 15:31:23 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:31:23 INFO  App:129 - Result 1: 30
+2021-07-13 15:31:23 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:31:23 INFO  App:136 - Result 2: 70
+2021-07-13 15:46:53 TRACE App:38 - >> Print the count of 1s and 2s
+2021-07-13 15:46:53 INFO  App:41 - 1     498481
+2021-07-13 15:46:53 INFO  App:41 - 2     501519
+2021-07-13 15:46:53 TRACE App:45 - ========== Invoice Examples ==========
+2021-07-13 15:46:53 TRACE App:46 - >> Sorted by part description
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:46:53 TRACE App:51 - >> Sorted by price per item
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 15:46:53 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:46:53 TRACE App:57 - >> Map invoices to part description and quantity, then sort by quantity
+2021-07-13 15:46:53 INFO  App:62 - Lawn mower           3
+2021-07-13 15:46:53 INFO  App:62 - Electric sander      7
+2021-07-13 15:46:53 INFO  App:62 - Sledge hammer        11
+2021-07-13 15:46:53 INFO  App:62 - Power saw            18
+2021-07-13 15:46:53 INFO  App:62 - Jig saw              21
+2021-07-13 15:46:53 INFO  App:62 - Wrench               34
+2021-07-13 15:46:53 INFO  App:62 - Hammer               76
+2021-07-13 15:46:53 INFO  App:62 - Screwdriver          106
+2021-07-13 15:46:53 TRACE App:64 - >> Map invoices to part description and value of invoice, then sort by value
+2021-07-13 15:46:53 INFO  App:68 - Jig saw              $231.00
+2021-07-13 15:46:53 INFO  App:68 - Sledge hammer        $236.50
+2021-07-13 15:46:53 INFO  App:68 - Lawn mower           $238.50
+2021-07-13 15:46:53 INFO  App:68 - Wrench               $255.00
+2021-07-13 15:46:53 INFO  App:68 - Electric sander      $405.86
+2021-07-13 15:46:53 INFO  App:68 - Screwdriver          $740.94
+2021-07-13 15:46:53 INFO  App:68 - Hammer               $911.24
+2021-07-13 15:46:53 INFO  App:68 - Power saw            $1799.82
+2021-07-13 15:46:53 TRACE App:70 - >> Same as above but only select values $200-$500
+2021-07-13 15:46:53 INFO  App:75 - Jig saw              $231.00
+2021-07-13 15:46:53 INFO  App:75 - Sledge hammer        $236.50
+2021-07-13 15:46:53 INFO  App:75 - Lawn mower           $238.50
+2021-07-13 15:46:53 INFO  App:75 - Wrench               $255.00
+2021-07-13 15:46:53 INFO  App:75 - Electric sander      $405.86
+2021-07-13 15:46:53 TRACE App:77 - >> Find an invoice where part description contains "saw"
+2021-07-13 15:46:53 INFO  App:80 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 15:46:53 TRACE App:83 - ========== End of Invoice Examples ==========
+2021-07-13 15:46:53 TRACE App:87 - >> Print words alphabetically
+2021-07-13 15:46:53 TRACE App:88 - String: This is a sentence that I want to be sorted alphabetically
+2021-07-13 15:46:53 INFO  App:184 - a
+2021-07-13 15:46:53 INFO  App:184 - alphabetically
+2021-07-13 15:46:53 INFO  App:184 - be
+2021-07-13 15:46:53 INFO  App:184 - I
+2021-07-13 15:46:53 INFO  App:184 - is
+2021-07-13 15:46:53 INFO  App:184 - sentence
+2021-07-13 15:46:53 INFO  App:184 - sorted
+2021-07-13 15:46:53 INFO  App:184 - that
+2021-07-13 15:46:53 INFO  App:184 - This
+2021-07-13 15:46:53 INFO  App:184 - to
+2021-07-13 15:46:53 INFO  App:184 - want
+2021-07-13 15:46:53 TRACE App:94 - >> Sort random char array in ascending, descending, then ascending without duplicates
+2021-07-13 15:46:53 INFO  App:101 - [c, c, e, f, g, g, g, h, i, i, j, j, m, o, p, p, p, q, r, r, s, s, v, w, w, x, x, x, y, z]
+2021-07-13 15:46:53 INFO  App:103 - [z, y, x, x, x, w, w, v, s, s, r, r, q, p, p, p, o, m, j, j, i, i, h, g, g, g, f, e, c, c]
+2021-07-13 15:46:53 INFO  App:106 - [c, e, f, g, h, i, j, m, o, p, q, r, s, v, w, x, y, z]
+2021-07-13 15:46:53 TRACE App:110 - >> Read integer grades from file and display their letter grade
+2021-07-13 15:46:53 INFO  App:120 - 73 C
+2021-07-13 15:46:53 INFO  App:120 - 96 A
+2021-07-13 15:46:53 INFO  App:120 - 99 A
+2021-07-13 15:46:53 INFO  App:120 - 84 B
+2021-07-13 15:46:53 INFO  App:120 - 43 F
+2021-07-13 15:46:53 INFO  App:120 - 61 D
+2021-07-13 15:46:53 INFO  App:120 - 77 C
+2021-07-13 15:46:53 INFO  App:120 - 91 A
+2021-07-13 15:46:54 INFO  App:120 - 66 D
+2021-07-13 15:46:54 INFO  App:120 - 82 B
+2021-07-13 15:46:54 INFO  App:120 - 89 B
+2021-07-13 15:46:54 TRACE App:125 - >> Test the custom "MyInterface" interface
+2021-07-13 15:46:54 TRACE App:127 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:46:54 INFO  App:129 - Result 1: 30
+2021-07-13 15:46:54 TRACE App:131 - Calling addTwoNumbers method from custom interface
+2021-07-13 15:46:54 INFO  App:136 - Result 2: 70
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:19:23 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:24:30 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:25:10 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 17:25:59 TRACE App:40 - >> Print the count of 1s and 2s
+2021-07-13 17:25:59 INFO  App:43 - 1     499641
+2021-07-13 17:25:59 INFO  App:43 - 2     500359
+2021-07-13 17:25:59 TRACE App:47 - ========== Invoice Examples ==========
+2021-07-13 17:25:59 TRACE App:48 - >> Sorted by part description
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:25:59 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 17:29:48 TRACE App:39 - >> Print the count of 1s and 2s
+2021-07-13 17:29:48 INFO  App:42 - 1     499628
+2021-07-13 17:29:48 INFO  App:42 - 2     500372
+2021-07-13 17:29:48 TRACE App:46 - ========== Invoice Examples ==========
+2021-07-13 17:29:48 TRACE App:47 - >> Sorted by part description
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:29:48 INFO  App:372 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 17:29:48 TRACE App:50 - >> Sorted by price per item
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:29:48 INFO  App:184 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:29:48 TRACE App:56 - >> Map invoices to part description and quantity, then sort by quantity
+2021-07-13 17:29:48 INFO  App:61 - Lawn mower           3
+2021-07-13 17:29:48 INFO  App:61 - Electric sander      7
+2021-07-13 17:29:48 INFO  App:61 - Sledge hammer        11
+2021-07-13 17:29:48 INFO  App:61 - Power saw            18
+2021-07-13 17:29:48 INFO  App:61 - Jig saw              21
+2021-07-13 17:29:48 INFO  App:61 - Wrench               34
+2021-07-13 17:29:48 INFO  App:61 - Hammer               76
+2021-07-13 17:29:48 INFO  App:61 - Screwdriver          106
+2021-07-13 17:29:48 TRACE App:63 - >> Map invoices to part description and value of invoice, then sort by value
+2021-07-13 17:29:48 INFO  App:67 - Jig saw              $231.00
+2021-07-13 17:29:48 INFO  App:67 - Sledge hammer        $236.50
+2021-07-13 17:29:48 INFO  App:67 - Lawn mower           $238.50
+2021-07-13 17:29:48 INFO  App:67 - Wrench               $255.00
+2021-07-13 17:29:48 INFO  App:67 - Electric sander      $405.86
+2021-07-13 17:29:48 INFO  App:67 - Screwdriver          $740.94
+2021-07-13 17:29:48 INFO  App:67 - Hammer               $911.24
+2021-07-13 17:29:48 INFO  App:67 - Power saw            $1799.82
+2021-07-13 17:29:48 TRACE App:69 - >> Same as above but only select values $200-$500
+2021-07-13 17:29:48 INFO  App:74 - Jig saw              $231.00
+2021-07-13 17:29:48 INFO  App:74 - Sledge hammer        $236.50
+2021-07-13 17:29:48 INFO  App:74 - Lawn mower           $238.50
+2021-07-13 17:29:48 INFO  App:74 - Wrench               $255.00
+2021-07-13 17:29:48 INFO  App:74 - Electric sander      $405.86
+2021-07-13 17:29:48 TRACE App:76 - >> Find an invoice where part description contains "saw"
+2021-07-13 17:29:48 INFO  App:79 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:29:48 TRACE App:82 - ========== End of Invoice Examples ==========
+2021-07-13 17:29:48 TRACE App:92 - >> Print words alphabetically
+2021-07-13 17:29:48 TRACE App:93 - String: This is a sentence that I want to be sorted alphabetically
+2021-07-13 17:29:48 INFO  App:184 - a
+2021-07-13 17:29:48 INFO  App:184 - alphabetically
+2021-07-13 17:29:48 INFO  App:184 - be
+2021-07-13 17:29:48 INFO  App:184 - I
+2021-07-13 17:29:48 INFO  App:184 - is
+2021-07-13 17:29:48 INFO  App:184 - sentence
+2021-07-13 17:29:48 INFO  App:184 - sorted
+2021-07-13 17:29:48 INFO  App:184 - that
+2021-07-13 17:29:48 INFO  App:184 - This
+2021-07-13 17:29:48 INFO  App:184 - to
+2021-07-13 17:29:48 INFO  App:184 - want
+2021-07-13 17:29:48 TRACE App:99 - >> Sort random char array in ascending, descending, then ascending without duplicates
+2021-07-13 17:29:48 INFO  App:106 - [a, b, c, e, f, g, j, j, k, k, l, m, m, n, n, p, q, q, r, s, s, s, v, v, w, x, x, x, y, y]
+2021-07-13 17:29:48 INFO  App:108 - [y, y, x, x, x, w, v, v, s, s, s, r, q, q, p, n, n, m, m, l, k, k, j, j, g, f, e, c, b, a]
+2021-07-13 17:29:48 INFO  App:111 - [a, b, c, e, f, g, j, k, l, m, n, p, q, r, s, v, w, x, y]
+2021-07-13 17:29:48 TRACE App:115 - >> Read integer grades from file and display their letter grade
+2021-07-13 17:29:48 INFO  App:125 - 73 C
+2021-07-13 17:29:48 INFO  App:125 - 96 A
+2021-07-13 17:29:48 INFO  App:125 - 99 A
+2021-07-13 17:29:48 INFO  App:125 - 84 B
+2021-07-13 17:29:48 INFO  App:125 - 43 F
+2021-07-13 17:29:48 INFO  App:125 - 61 D
+2021-07-13 17:29:48 INFO  App:125 - 77 C
+2021-07-13 17:29:48 INFO  App:125 - 91 A
+2021-07-13 17:29:48 INFO  App:125 - 66 D
+2021-07-13 17:29:48 INFO  App:125 - 82 B
+2021-07-13 17:29:48 INFO  App:125 - 89 B
+2021-07-13 17:29:48 TRACE App:130 - >> Test the custom "MyInterface" interface
+2021-07-13 17:29:48 TRACE App:132 - Calling addTwoNumbers method from custom interface
+2021-07-13 17:29:48 INFO  App:134 - Result 1: 30
+2021-07-13 17:29:48 TRACE App:136 - Calling addTwoNumbers method from custom interface
+2021-07-13 17:29:48 INFO  App:141 - Result 2: 70
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 83         Part Description: Electric sander      Quantity: 7          Price Per Item: $57.98     
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 77         Part Description: Hammer               Quantity: 76         Price Per Item: $11.99     
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 56         Part Description: Jig saw              Quantity: 21         Price Per Item: $11.00     
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 39         Part Description: Lawn mower           Quantity: 3          Price Per Item: $79.50     
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 24         Part Description: Power saw            Quantity: 18         Price Per Item: $99.99     
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 68         Part Description: Screwdriver          Quantity: 106        Price Per Item: $6.99      
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 7          Part Description: Sledge hammer        Quantity: 11         Price Per Item: $21.50     
+2021-07-13 17:30:13 INFO  App:372 - Part Number: 3          Part Description: Wrench               Quantity: 34         Price Per Item: $7.50      
